@@ -65,7 +65,7 @@ body {
 }
 
 .card {
-    height: 130px;
+    /* height: 130px; */
     overflow: hidden;
     border: none;
     border-radius: 15px
@@ -157,6 +157,7 @@ body {
 }
 
 .ribbon-top-right span {
+    z-index: 10 !important;
     left: -25px;
     top: 30px;
     transform: rotate(45deg)
@@ -251,6 +252,10 @@ div {
 
 .available_title span {
     font-weight: 700
+}
+
+.bg-semitransparent {
+    background-color: #ffffffd6;
 }
 
 @media only screen and (max-width: 991px) {
