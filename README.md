@@ -1,4 +1,4 @@
-# Ecommerce
+# 🛒 Ecommerce
  
 A tarefa está disponível aqui: 🔗 [link para a tarefa!](https://rauldoss.github.io/ecommerce/)
 
